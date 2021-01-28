@@ -1,0 +1,55 @@
+{
+    "projectPath":"./project/TTKP",
+    "version":[
+        "v1.0"
+    ],
+    "groupIDStart":3,
+    "taskIDStart":16,
+    "elementIDStart":20,
+    "templateIDStart":19,
+    "TaskImagePath":{
+        "element":{
+            "1":"",
+            "2":"./project/TTKP/v1.0/data/pid:9005 serial:*_screenshot_17.12.2020.png",
+            "3":"",
+            "7":"",
+            "14":"./project/TTKP/v1.0/data/start.png",
+            "15":"",
+            "16":"",
+            "17":"",
+            "18":"",
+            "19":"./project/TTKP/v1.0/data/pid:9005 serial:*_screenshot_17.12.2020.png"
+        },
+        "template":{
+            "1":"",
+            "2":"./project/TTKP/v1.0/data/pid:9005 serial:*_screenshot_17.12.2020.png",
+            "14":"",
+            "15":"./project/TTKP/v1.0/data/pid:9005 serial:*_screenshot_17.12.2020.png",
+            "17":"./project/TTKP/v1.0/data/group0_scene1.jpg",
+            "16":"",
+            "18":"./project/TTKP/v1.0/data/pid:9005 serial:*_screenshot_17.12.2020.png"
+        }
+    },
+    "GameOverIDStart":2,
+    "CloseIconIDStart":2,
+    "DeviceCloseIDStart":1,
+    "UIStatesIDStart":3,
+    "UIImagePath":{
+        "gameOver":{
+            "1":""
+        },
+        "closeIcons":{
+            "1":""
+        },
+        "devicesCloseIcons":{},
+        "uiStates":{
+            "1":"",
+            "2":""
+        }
+    },
+    "ReferImagePath":{},
+    "ActionSampleImagePath":{
+        "0":""
+    },
+    "ActionIDStart":1
+}

@@ -1,0 +1,10 @@
+{
+    "Debug":true,
+    "GameName":"",
+    "FrameFPS":10,
+    "FrameHeight":360,
+    "FrameWidth":640,
+    "ActionCfgFile":".json.json",
+    "OutputAsVideo":false,
+    "LogTimestamp":false
+}

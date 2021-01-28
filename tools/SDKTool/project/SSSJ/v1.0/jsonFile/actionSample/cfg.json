@@ -1,0 +1,10 @@
+{
+    "Debug":true,
+    "GameName":"SSSJ",
+    "FrameFPS":10,
+    "FrameHeight":360,
+    "FrameWidth":640,
+    "ActionCfgFile":"cfg/action_SSSJ.json",
+    "OutputAsVideo":false,
+    "LogTimestamp":false
+}
